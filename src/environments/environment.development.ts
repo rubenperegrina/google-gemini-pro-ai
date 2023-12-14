@@ -1,3 +1,3 @@
 export const environment = {
-    gemini_api_key: 'YOUR_KEY'
+    gemini_api_key: 'API_KEY'
 };
